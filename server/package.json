@@ -1,0 +1,16 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "Es un chat de cliente servidor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "keywords": [
+    "chat",
+    "socket",
+    "node"
+  ],
+  "author": "Jose Carlos Herrera Duarte",
+  "license": "ISC"
+}
